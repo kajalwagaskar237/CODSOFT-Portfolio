@@ -3,7 +3,7 @@
 This is a **personal Portfolio website** design to showcase my **Skills, projects, and experience** in a visually appealling way. It is built using **HTML,CSS** for a responsive and interactive design.
 
 ## Live DEMO
-[View Portfolio]()
+[View Portfolio](https://github.com/kajalwagaskar237/CODSOFT-Portfolio/tree/main)
 
 ## FEATURES
 1. Professional and clean design
